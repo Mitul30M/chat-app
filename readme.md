@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Your Name** - [your_email@example.com](mailto:your_email@example.com)
-- **GitHub:** [your_github_username](https://github.com/your_github_username)
-- **LinkedIn:** [your_linkedin_profile](https://linkedin.com/in/your_linkedin_profile)
+- **Mitul** - [mitul30m@icloud.com](mitul30m@icloud.com)
+- **GitHub:** [mitul30m](https://github.com/Mitul30M)
+- **LinkedIn:** [Mitul Mungase](https://www.linkedin.com/in/mitul-mungase-5010b8248/)
 
